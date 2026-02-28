@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ## Run
 
 1. Open `airline_analysis.ipynb` in Jupyter (or VS Code / Cursor).
-2. Run all cells (Kernel → Run All). The notebook loads `airline_ticket_dataset.xlsx` from this directory.
+2. Run all cells (Kernel → Run All). The notebook loads `airline_ticket_dataset.csv` from this directory.
 3. If your dataset uses different column names, adjust the mapping in **Section 2** and re-run.
 
 ## Deliverables
