@@ -1,4 +1,4 @@
-# SDSS-Datathon — Airline Tickets Case
+# Analysis of Airline Prices 
 
 Analysis of U.S. domestic airfare markets using DOT data (2021–2025 Q2): when, where, and why airfares differ, and how city-level characteristics influence route-level prices.
 
